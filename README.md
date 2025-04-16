@@ -12,7 +12,7 @@ cd ai-completion-app
 ```
 
 ### 2. Create a `.env` File
-Create a file named `.env` in the root of your project folder and add your OpenAI API key:
+Create a file, or use the one provided, named `.env` in the root of your project folder and add your OpenAI API key:
 ```env
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
